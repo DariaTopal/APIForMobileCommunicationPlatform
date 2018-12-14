@@ -1,1 +1,1 @@
-# service-to-expose-API-to-retrieve-information-related-with-Mobile-Communication-Platform
+# service to expose API to retrieve information related with Mobile Communication Platform
