@@ -123,6 +123,7 @@ public class MetricCounter {
 
 		return callsOriginDestinationGroupedByCountryCode;
 	}
+	
 	private Map<String, Integer> countWordOccurrence() {
 
 		for (String word : wordsOfContentMessage) {
